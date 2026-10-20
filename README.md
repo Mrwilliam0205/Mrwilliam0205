@@ -18,4 +18,4 @@ I am an Information Management undergraduate student passionate about building r
 
 ###  How to reach me
 * **Email:** william48837017@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile URL](#)
+
