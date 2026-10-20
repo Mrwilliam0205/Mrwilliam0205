@@ -11,11 +11,12 @@ I am an Information Management undergraduate student passionate about building r
 **Frontend:** JavaScript (ES6+), HTML5, CSS3, AJAX  
 **Database & Tools:** MySQL, Git, CI/CD (GitHub Actions)  
 
-###  Highlight Projects
-*(這裡未來會放上你的專案連結，目前先留空或寫文字)*
-* **AI Stock Trading System:** Built a backend trading bot using Python/FastAPI with technical strategy execution and Cloudflare Tunnel deployment.
-* **Healthcare Nursing Dashboard:** Developed a full-stack web interface tracking patient vitals and sensor data using PHP, MySQL, and AJAX visualization.
-
+##  Current Status: Work In Progress 
+The core architecture is established, and I am currently refining the features. 
+**Completed so far:**
+* Database connection and sensor data retrieval (PHP/MySQL)
+* Basic UI layout for the nursing station
+  
 ###  How to reach me
 * **Email:** william48837017@gmail.com
 
